@@ -1,0 +1,393 @@
+.h1, h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 50px;
+}
+
+.form-text.text-muted {
+  text-align: center;
+  color: rgb(249,249,249);
+  font-size: 13px;
+  opacity: 1;
+  filter: blur(0px) brightness(138%);
+  padding: 0px;
+  margin: 0px;
+}
+
+.moreAbout
+{
+  height: 350px; 
+  text-align: center;
+  padding: 10px;
+} 
+.card
+{
+  height: 300px;
+}
+
+.centerdButtons
+{
+  padding: 250px;
+  text-align: center;
+}
+.background
+{
+  height: 655px;
+  background-image: url("utah-mountain-biking-bike-biking-71104.jpeg");
+  background-repeat: no-repeat;
+  opacity: 0.8;
+
+}
+.linkss
+{
+  color: white;
+}
+.linkss:hover
+{
+  color: white;
+  text-decoration: none;
+}
+table, th, td 
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+th, td {
+  padding: 10px;
+}
+.h1, h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 50px;
+}
+
+.form-text.text-muted {
+  text-align: center;
+  color: rgb(249,249,249);
+  font-size: 13px;
+  opacity: 1;
+  filter: blur(0px) brightness(138%);
+  padding: 0px;
+  margin: 0px;
+}
+
+.box {
+}
+
+.box {
+}
+/* footer*/ 
+
+.footer-basic {
+  padding: 40px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-basic li {
+  padding: 0 10px;
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0 8px;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
+}
+
+/*projects*/
+
+.projects-horizontal {
+  color: #313437;
+  background-color: #fff;
+}
+
+.projects-horizontal p {
+  color: #7d8285;
+}
+
+.projects-horizontal h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .projects-horizontal h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.projects-horizontal .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 10px;
+}
+
+.projects-horizontal .projects {
+  padding-bottom: 40px;
+}
+
+.projects-horizontal .item {
+  padding-top: 60px;
+  min-height: 160px;
+}
+
+@media (max-width:767px) {
+  .projects-horizontal .item {
+    padding-top: 40px;
+    min-height: 160px;
+  }
+}
+
+.projects-horizontal .item .name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color: inherit;
+}
+
+@media (max-width:991px) {
+  .projects-horizontal .item .name {
+    margin-top: 22px;
+  }
+}
+
+.projects-horizontal .item .description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+/* team*/ 
+.team-clean {
+  color: #313437;
+  background-color: #fff;
+}
+
+.team-clean p {
+  color: #7d8285;
+}
+
+.team-clean h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .team-clean h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.team-clean .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.team-clean .intro p {
+  margin-bottom: 0;
+}
+
+.team-clean .people {
+  padding-bottom: 40px;
+}
+
+.team-clean .item {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.team-clean .item .name {
+  font-weight: bold;
+  margin-top: 28px;
+  margin-bottom: 8px;
+  color: inherit;
+}
+
+.team-clean .item .title {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #d0d0d0;
+  letter-spacing: 2px;
+  font-size: 13px;
+}
+
+.team-clean .item .description {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.team-clean .item img {
+  max-width: 160px;
+}
+
+.team-clean .social {
+  font-size: 18px;
+  color: #a2a8ae;
+}
+
+.team-clean .social a {
+  color: inherit;
+  margin: 0 10px;
+  display: inline-block;
+  opacity: 0.7;
+}
+
+.team-clean .social a:hover {
+  opacity: 1;
+}
+
+.team-grid {
+  color: #313437;
+  background-color: #fff;
+}
+
+.team-grid p {
+  color: #7d8285;
+}
+
+.team-grid h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .team-grid h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.team-grid .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.team-grid .intro p {
+  margin-bottom: 0;
+}
+
+.team-grid .people {
+  padding: 50px 0;
+}
+
+.team-grid .item {
+  margin-bottom: 30px;
+}
+
+.team-grid .item .box {
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 280px;
+  position: relative;
+  overflow: hidden;
+}
+
+.team-grid .item .cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(31,148,255,0.75);
+  transition: opacity 0.15s ease-in;
+  opacity: 0;
+  padding-top: 80px;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.15);
+}
+
+.team-grid .item:hover .cover {
+  opacity: 1;
+}
+
+.team-grid .item .name {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.team-grid .item .title {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #bbd8fb;
+  letter-spacing: 2px;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.team-grid .social {
+  font-size: 18px;
+}
+
+.team-grid .social a {
+  color: inherit;
+  margin: 0 10px;
+  display: inline-block;
+  opacity: 0.7;
+}
+
+.team-grid .social a:hover {
+  opacity: 1;
+}
+
+
